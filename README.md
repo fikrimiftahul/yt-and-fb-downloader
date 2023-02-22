@@ -23,7 +23,7 @@ YouTube and Facebook Downloader allows users to download videos from these websi
 
 3. **Download code from GitHub:**
 
-   a. Go to the yt-dlp GitHub repository at https://github.com/yt-dlp/yt-dlp.
+   a. Go to the yt-dlp GitHub repository at https://github.com/Fikri0708/yt-and-fb-downloader.
    
    b. Click the "Code" button and select "Download ZIP".
    
